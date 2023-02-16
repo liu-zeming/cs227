@@ -20,7 +20,7 @@ permissions:
   pages: write
   id-token: write
 
-color_scheme: nil
+color_scheme: dark
 
 # Allow one concurrent deployment
 concurrency:
