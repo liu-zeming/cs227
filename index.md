@@ -30,7 +30,7 @@ To get started with creating a site, just click "[use this template]"!
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
 ---
-title: Home
+title: Home2
 layout: home
 ---
 
