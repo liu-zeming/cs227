@@ -1,4 +1,3 @@
-
 ---
 title: Home
 layout: home
@@ -23,6 +22,7 @@ Prof. Zdonik. We'll be sending them out all at once.
 
 ## What this class is about
 
+<!-- <img alt="Microservices" src="assets/deathstar.png" height=350> -->
 
 Modern software systems are complex and are frequently broken into many component microservices.
 Managing these microservices requires visibility into the system state using massive amounts of
@@ -34,4 +34,5 @@ system state is called Observability.
 Observability is fundamentally a data management problem: how to generate, collect, ingest, store,
 and query vast amounts of heterogeneous data. As an example, the table below shows that on any given day, Slack maintains more than a petabyte of data and  generates nearly half a petabyte per day.
 
+<!-- <img alt="Melt" src="assets/melt.png" align="middle"> -->
 ----
