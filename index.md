@@ -28,7 +28,7 @@ To get started with creating a site, just click "[use this template]"!
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
-- ---
+---
 title: Home
 layout: home
 ---
@@ -65,3 +65,4 @@ Observability is fundamentally a data management problem: how to generate, colle
 and query vast amounts of heterogeneous data. As an example, the table below shows that on any given day, Slack maintains more than a petabyte of data and  generates nearly half a petabyte per day.
 
 <!-- <img alt="Melt" src="assets/melt.png" align="middle"> -->
+----
