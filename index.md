@@ -22,6 +22,6 @@ In-depth treatment of advanced issues in database management systems. Topics var
 
 Lecture: 
 
-Final Report: 
+Final Summary Report: 
 
 ----
