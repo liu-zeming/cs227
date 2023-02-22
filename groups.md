@@ -1,5 +1,5 @@
 ---
-title: Final Report
+title: Groups
 layout: default
 nav_order: 2
 ---
