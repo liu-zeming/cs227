@@ -4,7 +4,7 @@ layout: default
 ---
 # Final Report
 
-The final project is a review paper on the topic each group did a presentation on in class, still with your group as the unit. You can google scholar to find papers or blogs or articles that interest you, and they should focus on the same topic and serve as the primary point of focus for the summary paper.
+The final project is a review paper on the topic each group did a presentation on in class, still with your group as the unit. You can google scholar to find papers, articles or even blogs that interest you, and they should focus on the same topic and serve as the primary point of focus for the review paper.
 
 ## Instructions
 
