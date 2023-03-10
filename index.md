@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 nav_order: 1
 ---
 
@@ -19,10 +19,6 @@ Room: CIT 241
 
 In-depth treatment of advanced issues in database management systems. Topics vary from year to year and may include distributed databases, mobile data management, data stream processing and web-based data management. 
 
-## Grading
 
-Lecture: 
-
-Final Summary Report: 
 
 ----
