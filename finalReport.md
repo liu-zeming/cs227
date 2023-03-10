@@ -3,7 +3,7 @@ title: Final Project
 layout: default
 nav_order: 3
 ---
-# Final Report
+# Final Project
 
 The final project is to ask a database related question and give an implementation, answer and exposition. The final assignment is carried out in groups in stages.
 
