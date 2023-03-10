@@ -1,46 +1,27 @@
 ---
-title: Final Report
+title: Final Project
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 # Final Report
 
-The final project is a review paper on the topic each group did a presentation on in class, still with your group as the unit. You can google scholar to find papers, articles or even blogs that interest you, and they should focus on the same topic and serve as the primary point of focus for the review paper.
+The final project is to ask a database related question and give an implementation, answer and exposition. The final assignment is carried out in groups in stages.
 
 ## Instructions
 
-A review article or review paper is based on other published articles. It does not report original research. Review articles generally summarize the existing literature on a topic in an attempt to explain the current state of understanding on the topic. Review articles can be of three kinds:
+### Initial Version: a Final Project Plan
 
-* A narrative review explains the existing knowledge on a topic based on all the published research available on the topic.
-* A systematic review searches for the answer to a particular question in the existing scientific literature on a topic.
-* A meta-analysis compares and combines the findings of previously published studies, usually to assess the effectiveness of an intervention or mode of treatment.
+In the initial submission, you need to elaborate on the following issues
+1. Descrobe the problem you propose related to database topic in about 200-300 words
+2. How you are going to solve the problem and describe how you are going to achieve your solution
+3. Justify your approach, giving a practical example to illustrate it
+4. What kind of articles you have read or are going to read to get your problem and solution
 
-If you have not been exposed to review papers, you can start by structuring your paper in the following sections, but these structures are not a requirement, and again you can refer to other review papers to organize your paper.
+The topic of your final project is not limited to the presentation topic you give in the class
 
-### Introduction
-In the introduction, you should provide an overview of the topic you are discussing and why it's important. You should also include a clear thesis statement that summarizes the main argument of your paper.
+## Hand-in
 
-### Background
-Provide some background information on the topic, including any relevant history or previous research. This will help readers understand the context of the topic and why it's important.
+The initial version should be handed in to TA via email zeming_liu@brown.com and cc sbz@cs.brown.edu, due at Mar 13 11:00 AM. Please include the group and group number you are in. You can check the group in the groups page.
 
-### Key findings
-Summarize the key findings of the papers you have reviewed. This includes any important data or statistics that support the findings. The key findings should be presented in a logical and organized manner to help readers understand the most important aspects of the research.
-
-### Methodology
-It's important to briefly describe the research methods used in the papers you have reviewed. This includes the sample size, the research design, and the data collection and analysis techniques. This will help readers understand the validity and reliability of the research.
-
-### Analysis
-Provide an analysis of the papers, highlighting any similarities, differences, or gaps in the research. This can help readers understand the overall picture of the research and what has been established or what still needs to be explored.
-
-### Implications 
-Consider the implications of the research you've reviewed and discuss any potential applications of the findings. This includes any limitations of the research or areas where more research is needed.
-
-### Conclusion
-Conclude with a summary of the main points and any implications for future research. The conclusion should tie together all of the information presented in the paper and restate the thesis statement.
-
-### References
-Include a list of references at the end of the paper, following the citation format including the author's name, date, location of the publishing company, journal title, or DOI.
-
-## Reference Reading
 
 ---
