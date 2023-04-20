@@ -7,9 +7,9 @@ nav_order: 3
 
 The final project is to ask a database related question and give an implementation, answer and exposition. The final assignment is carried out in groups in stages.
 
-## STAGES
+# STAGES
 
-### STAGE 1 : Initial Version: a Final Project Plan
+## STAGE 1 : Initial Version: a Final Project Plan
 
 In the initial submission, you need to elaborate on the following issues
 1. Descrobe the problem you propose related to database topic in about 200-300 words
@@ -19,11 +19,11 @@ In the initial submission, you need to elaborate on the following issues
 
 The topic of your final project is not limited to the presentation topic you give in the class
 
-#### Hand-in
+### Hand-in
 
 The initial version should be handed in to TA via email zeming_liu@brown.com and cc sbz@cs.brown.edu, due at Mar 13 11:00 AM. Please include the group and group number you are in. You can check the group in the groups page.
 
-### STAGE 2: Design Sharing and Reviews
+## STAGE 2: Design Sharing and Reviews
 
 In this stage, each group will present their proposed project topic and its database design using a flowchart. We will simulate a design review in a tech company and you are the designers and reviewers. The presentation should be approximately 10-15 minutes in length, and should cover the following aspects:
 

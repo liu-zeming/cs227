@@ -39,7 +39,6 @@ yuyang_wang@brown.edu
 
 ## 4. ML
 
-prashanthi_ramachandran@brown.edu
 
 zhen_ren@brown.edu
 
