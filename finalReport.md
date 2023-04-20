@@ -40,7 +40,7 @@ Feedback and suggestions: Each group in the class should provide feedback and su
 Here is a simple example of a flowchart:
 ![A Data Modeling Diagram for Ride Share](https://www.researchgate.net/publication/320377527/figure/fig1/AS:549342786187264@1507984934707/Data-flow-diagram-for-ridesharing_W640.jpg)
 
-Expectations:
+### Expectations:
 
 Quality of the database design: The design should be well-structured and clearly presented using a diagram of your model.
 
