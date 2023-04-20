@@ -25,7 +25,7 @@ The initial version should be handed in to TA via email zeming_liu@brown.com and
 
 ## STAGE 2: Design Sharing and Reviews
 
-In this stage, each group will present their proposed project topic and its database design using a flowchart. We will simulate a design review in a tech company and you are the designers and reviewers. The presentation should be approximately 10-15 minutes in length, and should cover the following aspects:
+In this stage, each group will present their proposed project topic and its database design using a flowchart. We will simulate a design review in a tech company and you are the designers and reviewers. The presentation should be approximately 15-20 minutes in length, and should cover the following aspects:
 
 Overview of the project topic: Briefly introduce the topic and its relevance to the field of database design.
 
