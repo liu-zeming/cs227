@@ -51,6 +51,33 @@ Feedback and collaboration: Students should actively participate in the feedback
 Good luck with the second phase of your project!
 
 
+## STAGE 3 : Final Paper
+
+The final paper serves as a comprehensive research plan for your project. It should be concise yet thorough with 2-3 pages, presenting a culmination of your previous work. The paper should include the following sections, organized in a formal manner:
+
+    1. Title and Introduction
+    2. Research Objectives
+    3. Literature Review
+
+    This three part should have already been covered in your Stage 1 submission and try to organize them in a more formal way.
+
+    4. Methodology
+    5. Expected Results
+    6. Data Collections
+
+    This three part should have been covered in your Stage 2 presentation and try to organize them in a more formal way. Please do not forget to include the graph you made in your presentation and illustrate them.
+
+    7. References
+    8. Contribution of the team members in the each stage of the project
+
+### Hand-in
+    * Please submit your final paper via email to TA zeming_liu@brown.edu, with a copy to Professor Stan sbz@cs.brown.edu, before May 19 at 11:00 AM.
+    * Ensure you include your group name and group number in the submission.
+    * You can verify your group details on the groups page, as this will be considered when assessing your class participation and final paper.
+
+
+
+
 
 
 ---
